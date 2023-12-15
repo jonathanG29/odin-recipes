@@ -1,0 +1,20 @@
+*{
+    background-color: antiquewhite;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 22px;
+}
+
+.title{
+    display: flex;
+    text-align: center;
+    justify-content: center;
+    color: red;
+}
+
+.list{
+    display: contents;
+    justify-content: center;
+    text-align: center;
+    color: black;
+    
+}

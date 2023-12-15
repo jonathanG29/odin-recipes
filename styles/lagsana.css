@@ -1,0 +1,17 @@
+*{
+    background-color: antiquewhite;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 18px;
+}
+
+h1, h2, h3{
+    color: brown;
+    font-size: 25px;
+}
+
+.title{
+    font-size: 25px;
+    color: brown;
+}
+
+

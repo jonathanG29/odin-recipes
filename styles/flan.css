@@ -1,0 +1,21 @@
+*{
+    background-color: antiquewhite;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 22px;
+}
+
+h1, h2, h3{
+    color: brown;
+}
+
+h1{
+    padding-left: 150px;
+}
+
+.img{
+    align-items: center;
+    justify-content: center;
+    display: flex;
+    position: relative;
+    padding-left: 25px;
+}
